@@ -1,0 +1,23 @@
+{
+    "roots": [
+        "."
+    ],
+    "name": "@qualifio/vincenHouba",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "private": true,
+    "author": "edil3ra",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "commander": "^7.0.0"
+    },
+    "type": "module",
+    "devDependencies": {
+        "prettier": "^2.2.1"
+    }
+}
